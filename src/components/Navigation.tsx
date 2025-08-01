@@ -25,7 +25,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="text-2xl font-bold text-gradient">
-              Devin
+              Adeel
             </div>
           </div>
 

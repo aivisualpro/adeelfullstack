@@ -5,7 +5,7 @@ const capabilities = [
   {
     icon: Code2,
     title: "Write Code",
-    description: "Devin can write complete applications, from simple scripts to complex web applications, using any programming language or framework."
+    description: "Adeel can write complete applications, from simple scripts to complex web applications, using any programming language or framework."
   },
   {
     icon: TestTube,
@@ -58,10 +58,10 @@ const CapabilitiesSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-bold text-foreground mb-6">
-            What Devin Can Do
+            What Adeel Can Do
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            From writing code to deploying applications, Devin handles the entire software development lifecycle with unprecedented autonomy and precision.
+            From writing code to deploying applications, Adeel handles the entire software development lifecycle with unprecedented autonomy and precision.
           </p>
         </div>
 
@@ -93,7 +93,7 @@ const CapabilitiesSection = () => {
             Long-term reasoning and planning
           </h3>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto">
-            Devin can plan and execute complex engineering tasks requiring thousands of decisions. 
+            Adeel can plan and execute complex engineering tasks requiring thousands of decisions. 
             It recalls relevant context at every step, learns over time, and fixes mistakes autonomously.
           </p>
         </div>

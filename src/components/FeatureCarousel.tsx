@@ -21,12 +21,12 @@ const features = [
           time: "Aug 12, 2024, 4:51 PM"
         },
         {
-          type: "devin",
+          type: "adeel",
           content: "Migrate the music-generation repo from Java 8 to Python 3.11. As you migrate, you should also add small tests to each new python file to ensure that the code can run.",
           time: "Aug 12, 2024, 4:51 PM"
         },
         {
-          type: "devin", 
+          type: "adeel",
           content: "Absolutely! I'll start with the 'src/music' directory of the repository. I'll keep you updated on my progress!",
           time: "Aug 12, 2024, 4:51 PM"
         }
@@ -34,7 +34,7 @@ const features = [
       status: "Session Ended"
     },
     rightPanel: {
-      title: "Devin's Workspace",
+      title: "Adeel's Workspace",
       tabs: ["Shell", "Browser", "Editor", "Planner"],
       activeTab: "Editor",
       content: {
@@ -78,7 +78,7 @@ from pathlib import Path
           time: "Aug 12, 2024, 3:22 PM"
         },
         {
-          type: "devin",
+          type: "adeel",
           content: "I'll build a modern e-commerce platform with React frontend, Node.js backend, and PostgreSQL database. Including user authentication, product catalog, shopping cart, and payment processing.",
           time: "Aug 12, 2024, 3:22 PM"
         }
@@ -86,7 +86,7 @@ from pathlib import Path
       status: "In Progress"
     },
     rightPanel: {
-      title: "Devin's Workspace",
+      title: "Adeel's Workspace",
       tabs: ["Shell", "Browser", "Editor", "Planner"],
       activeTab: "Browser",
       content: {
@@ -123,7 +123,7 @@ const App = () => {
           time: "Aug 12, 2024, 2:15 PM"
         },
         {
-          type: "devin",
+          type: "adeel",
           content: "I'll integrate Stripe payment gateway with proper error handling, webhook validation, and comprehensive test coverage.",
           time: "Aug 12, 2024, 2:15 PM"
         }
@@ -131,7 +131,7 @@ const App = () => {
       status: "Testing"
     },
     rightPanel: {
-      title: "Devin's Workspace",
+      title: "Adeel's Workspace",
       tabs: ["Shell", "Browser", "Editor", "Planner"],
       activeTab: "Shell",
       content: {
@@ -175,10 +175,10 @@ export default function FeatureCarousel() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            See <span className="text-gradient">Devin</span> in Action
+            See <span className="text-gradient">Adeel</span> in Action
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Watch how Devin tackles complex development challenges with intelligent automation
+            Watch how Adeel tackles complex development challenges with intelligent automation
           </p>
         </div>
 
@@ -244,7 +244,7 @@ export default function FeatureCarousel() {
                     <div className="flex-1">
                       <div className="flex items-center space-x-2 mb-1">
                         <span className="font-medium text-sm text-gray-600">
-                          {message.type === 'user' ? 'You' : 'Devin'}
+                          {message.type === 'user' ? 'You' : 'Adeel'}
                         </span>
                         <span className="text-xs text-gray-400">{message.time}</span>
                       </div>
@@ -261,7 +261,7 @@ export default function FeatureCarousel() {
               </div>
               
               <Button className="w-full mt-4" variant="default">
-                Start a new conversation with Devin
+                Start a new conversation with Adeel
               </Button>
             </div>
 

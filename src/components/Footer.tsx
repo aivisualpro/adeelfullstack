@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="col-span-1 md:col-span-1">
             <div className="text-2xl font-bold text-gradient mb-4">
-              Devin
+              Adeel
             </div>
             <p className="text-muted-foreground mb-6 max-w-xs">
               The first AI software engineer. Build faster, scale better, and focus on what matters most.
@@ -68,7 +68,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 Devin AI. All rights reserved.
+            © 2024 Adeel Jabbar. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-muted-foreground hover:text-foreground text-sm transition-smooth">

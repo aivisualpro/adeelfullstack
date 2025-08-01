@@ -12,7 +12,7 @@ const CaseStudySection = () => {
             Real Results from Real Companies
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            See how industry leaders are using Devin to transform their development workflows and achieve unprecedented efficiency gains.
+            See how industry leaders are using Adeel to transform their development workflows and achieve unprecedented efficiency gains.
           </p>
         </div>
 
@@ -26,7 +26,7 @@ const CaseStudySection = () => {
               </div>
               
               <h3 className="text-3xl font-bold text-foreground mb-6">
-                How Nubank refactors millions of lines of code to improve engineering efficiency with Devin
+                How Nubank refactors millions of lines of code to improve engineering efficiency with Adeel
               </h3>
               
               <div className="space-y-4 mb-8">
@@ -50,7 +50,7 @@ const CaseStudySection = () => {
                   One of Nubank's most critical, company-wide projects for 2023-2024 was a migration of their core ETL — 
                   an 8 year old, multi-million lines of code monolith — to sub-modules. To handle such a large refactor, 
                   their only option was a multi-year effort that distributed repetitive refactoring work across over one 
-                  thousand of their engineers. With Devin, they accomplished this in a fraction of the time.
+                  thousand of their engineers. With Adeel, they accomplished this in a fraction of the time.
                 </p>
               </div>
               
@@ -98,7 +98,7 @@ const CaseStudySection = () => {
             Ready to transform your development workflow?
           </h3>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Join thousands of companies already using Devin to accelerate their software development and achieve remarkable results.
+            Join thousands of companies already using Adeel to accelerate their software development and achieve remarkable results.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="hero" size="lg">
