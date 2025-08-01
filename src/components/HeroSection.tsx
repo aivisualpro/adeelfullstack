@@ -46,16 +46,16 @@ const HeroSection = () => {
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-8 leading-tight">
             Meet{" "}
             <span className="text-gradient bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent animate-gradient">
-              Devin
+              Adeel
             </span>
             <br />
             <span className="text-4xl sm:text-5xl lg:text-6xl">
-              Your AI Teammate
+              Your AI & All IT Teammate
             </span>
           </h1>
           
           <p className="text-xl sm:text-2xl text-white/80 mb-12 max-w-4xl mx-auto leading-relaxed">
-            Devin is an autonomous AI software engineer that can write, run, and test code. 
+            Adeel is an autonomous AI & IT specialist that can handle all your technical needs. 
             Build faster, scale better, and focus on what matters most.
           </p>
           
@@ -79,7 +79,7 @@ const HeroSection = () => {
           </div>
           <div className="text-center">
             <div className="text-4xl font-bold text-white mb-2">1000+</div>
-            <div className="text-white/70">Companies Trust Devin</div>
+            <div className="text-white/70">Companies Trust Adeel</div>
           </div>
           <div className="text-center">
             <div className="text-4xl font-bold text-white mb-2">24/7</div>
