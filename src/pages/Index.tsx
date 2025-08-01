@@ -1,6 +1,7 @@
 import Navigation from "@/components/Navigation";
 import HeroSection from "@/components/HeroSection";
 import CapabilitiesSection from "@/components/CapabilitiesSection";
+import FeatureCarousel from "@/components/FeatureCarousel";
 import CaseStudySection from "@/components/CaseStudySection";
 import Footer from "@/components/Footer";
 
@@ -10,6 +11,7 @@ const Index = () => {
       <Navigation />
       <HeroSection />
       <CapabilitiesSection />
+      <FeatureCarousel />
       <CaseStudySection />
       <Footer />
     </div>
